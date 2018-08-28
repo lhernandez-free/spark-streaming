@@ -1,2 +1,2 @@
-1-Run docker/start_dockers.sh
-2-Run any spark/ class
+1-Run demo/solera/com/docker/start_dockers.sh
+2-Run any demo.solera.com.spark class
